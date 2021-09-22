@@ -1,9 +1,9 @@
 # REPOS2
 
 
-#Bienvenidos a nuestro README.md
+# Bienvenidos a nuestro README.md
 
-####En este README.md vamos a explicar un poco el contenido de nuestro repositorio.
+#### En este README.md vamos a explicar un poco el contenido de nuestro repositorio.
 
 
 ##### dec2bin.py, que  Convierte un número decimal positivo a binario usando un determinado número de bits.
